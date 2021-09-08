@@ -25,7 +25,7 @@ announcements related to the 2020/21 course.
 
 | Date              | Title                                        | Slides/material                                       |
 |:------------------|:---------------------------------------------|:------------------------------------------------------|
-| dd/mm/yyy         | LAB1 Agent-Based Modelling                   | [Link to some material](./assets/StateMachine.pdf)    |
+| dd/mm/yyy         | LAB1 Agent-Based Modelling                   | [LAB 01 slides](./assets/lab01.pdf)    |
 
 
 
