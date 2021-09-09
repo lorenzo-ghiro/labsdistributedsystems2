@@ -17,7 +17,7 @@ Labs are on ***Friday 10.30am - 12.30am***
 *   [Lorenzo Ghiro](https://ans.disi.unitn.it/~ghiro/)
 
 **Telegram:** We use this [~~Telegram channel~~]("") for general
-announcements related to the 2020/21 course.
+announcements related to the 2021/22 course.
 
 <br>
 
@@ -25,9 +25,28 @@ announcements related to the 2020/21 course.
 
 | Date              | Title                                        | Slides/material                                       |
 |:------------------|:---------------------------------------------|:------------------------------------------------------|
-| dd/mm/yyy         | LAB1 Agent-Based Modelling                   | [LAB 01 slides](./assets/lab01.pdf)    |
+| 24 Sep            | LAB1 Agent-Based Modelling                   | [LAB 01 slides](./assets/lab01.pdf)                   |
 
 
+<br>
+
+***
+## Resources online
+
+**Mesa: Agent-based modeling in Python 3**
+- [Mesa Homepage](https://mesa.readthedocs.io/en/stable)
+- [Mesa on GitHub](https://github.com/projectmesa/mesa)
+- [Introductory Tutorial](https://mesa.readthedocs.io/en/stable/tutorials/intro_tutorial.html)
+- [Advanced Tutorial](https://mesa.readthedocs.io/en/stable/tutorials/adv_tutorial.html)
+
+
+## Bibliographic Resources
+
+- J. Kazil, D. Masad, A. Crooks. [*"Utilizing Python for Agent-Based Modeling: The Mesa Framework"*](https://link.springer.com/chapter/10.1007/978-3-030-61255-9_30), in
+ International Conf. on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation. Springer, 2020.
+- D. Masad, J. Kazil. [*"MESA: an agent-based modeling framework."*](https://conference.scipy.org/proceedings/scipy2015/pdfs/jacqueline_kazil.pdf), in 14th PYTHON in Science Conf., 2015.
+
+***
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
