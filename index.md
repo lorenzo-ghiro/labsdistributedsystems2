@@ -6,7 +6,9 @@ layout: default
 
 ***
 
-Labs are on ***Friday 10.30am - 12.30am***
+When: ***Friday 10.30am - 12.30am***
+
+Where: ***ROOM A-221***
 
 ***
 
@@ -16,7 +18,7 @@ Labs are on ***Friday 10.30am - 12.30am***
 *   [Alberto Montresor](http://cricca.disi.unitn.it/montresor/)
 *   [Lorenzo Ghiro](https://ans.disi.unitn.it/~ghiro/)
 
-**Telegram:** We use this [~~Telegram channel~~]("") for general
+**Telegram:** We use this [Telegram channel](https://t.me/joinchat/-AzoD7LEX04zNTk0) for general
 announcements related to the 2021/22 course.
 
 <br>
