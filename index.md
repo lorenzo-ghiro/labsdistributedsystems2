@@ -25,11 +25,14 @@ announcements related to the 2021/22 course.
 
 ## Labs Schedule 
 
-| Date              | Title                                        | Slides/material                                       |
-|:------------------|:---------------------------------------------|:------------------------------------------------------|
-| 24 Sep            | LAB1 Agent-Based Modelling                   | [LAB 01 slides](./assets/lab01.pdf)                   |
+| Date        | Title                                 | Slides/material                                         |
+|:------------|:--------------------------------------|:--------------------------------------------------------|
+| 24 Sep      | * LAB Introduction <br> * Broadcast   | [Intro slides](./assets/slides/labINTRODUCTION.pdf) <br> [Broadcast slides](./assets/slides/labBROADCAST.pdf) <br> [Python Code](./assets/resources/broadcast.zip) |
 
 
+<br>
+
+<!--
 <br>
 
 ***
@@ -49,6 +52,8 @@ announcements related to the 2021/22 course.
 - D. Masad, J. Kazil. [*"MESA: an agent-based modeling framework."*](https://conference.scipy.org/proceedings/scipy2015/pdfs/jacqueline_kazil.pdf), in 14th PYTHON in Science Conf., 2015.
 
 ***
+-->
+
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
