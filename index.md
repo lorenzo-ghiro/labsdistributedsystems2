@@ -10,6 +10,15 @@ When: ***Friday 10.30am - 12.30am***
 
 Where: ***ROOM A-221***
 
+<a href="https://meet.google.com/zbs-udrn-rtt">
+also online on Google Meet
+<img src="./assets/images/gmeet.png" alt="Link to Google Meet" width="40"/>
+</a>
+<!--
+also [online on Google Meet](https://meet.google.com/zbs-udrn-rtt)
+  [![image alt text](./assets/images/gmeet.png)](www.google.com)-->
+
+
 ***
 
 
