@@ -6,9 +6,9 @@ layout: default
 
 ***
 
-When: ***Friday 10.30am - 12.30am***
+When: ***Friday 11.30am - 13.30am***
 
-Where: ***ROOM A-221***
+Where: ***ROOM A221***
 
 <a href="https://meet.google.com/zbs-udrn-rtt">
 also online on Google Meet
@@ -36,7 +36,7 @@ announcements related to the 2021/22 course.
 
 | Date        | Title                                 | Slides/material                                         |
 |:------------|:--------------------------------------|:--------------------------------------------------------|
-| 24 Sep      | * LAB Introduction <br> * Broadcast   | [Intro slides](./assets/slides/labINTRODUCTION.pdf) <br> [Broadcast slides](./assets/slides/labBROADCAST.pdf) <br> [Python Code](./assets/resources/broadcast.zip) |
+| 24 Sep      | * LAB Introduction <br> * Broadcast   | [Intro slides](./assets/slides/labINTRODUCTION.pdf) <br> [Broadcast slides](./assets/slides/labBROADCAST.pdf) <br> [BestEffort Templates](./assets/resources/BEBtemplate.zip) <br> [ReliableBroadcast Templates](./assets/resources/RELbroadcastTEMPLATE.zip) <!-- <br> [BestEffort Solution](./assets/resources/BEBsolution.zip) -->  <!--<br>  [ReliableBroadcast Solution](./assets/resources/RELbroadcastSOLUTION.zip) -->  |
 
 
 <br>
