@@ -41,6 +41,12 @@ announcements related to the 2021/22 course.
 
 <br>
 
+## Labs Recordings
+
+| Date        | Title                                 | Link                                         |
+|:------------|:--------------------------------------|:---------------------------------------------|
+| 24 Sep      | LAB Introduction + Lab on Broadcast   | [Video recording](https://drive.google.com/file/d/19WWv7unQ6jymklnVb-a7sR51mNO3vjkz/view?usp=sharing)|                 
+
 <!--
 <br>
 
