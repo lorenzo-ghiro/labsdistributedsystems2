@@ -36,7 +36,7 @@ announcements related to the 2021/22 course.
 
 | Date        | Title                                 | Slides/material                                         |
 |:------------|:--------------------------------------|:--------------------------------------------------------|
-| 24 Sep      | * LAB Introduction <br> * Broadcast   | [Intro slides](./assets/slides/labINTRODUCTION.pdf) <br> [Broadcast slides](./assets/slides/labBROADCAST.pdf) <br> [BestEffort Templates](./assets/resources/BEBtemplate.zip) <br> [ReliableBroadcast Templates](./assets/resources/RELbroadcastTEMPLATE.zip) <!-- <br> [BestEffort Solution](./assets/resources/BEBsolution.zip) -->  <!--<br>  [ReliableBroadcast Solution](./assets/resources/RELbroadcastSOLUTION.zip) -->  |
+| 24 Sep      | * LAB Introduction <br> * Broadcast   | [Intro slides](./assets/slides/labINTRODUCTION.pdf) <br> [Broadcast slides](./assets/slides/labBROADCAST.pdf) <br> [BestEffort Templates](./assets/resources/BEBtemplate.zip) <br> [ReliableBroadcast Templates](./assets/resources/RELbroadcastTEMPLATE.zip) <br> [BestEffort Solution](./assets/resources/BEBsolution.zip)  <!--<br>  [ReliableBroadcast Solution](./assets/resources/RELbroadcastSOLUTION.zip) -->  |
 
 
 <br>
