@@ -8,10 +8,8 @@ layout: default
 
 When: ***Friday 11.30am - 13.30am***
 
-Where: ***ROOM A221***
-
-<a href="https://meet.google.com/zbs-udrn-rtt">
-also online on Google Meet
+Where: ***ROOM A221***   &nbsp; <a href="https://meet.google.com/zbs-udrn-rtt">
+  also on Google Meet
 <img src="./assets/images/gmeet.png" alt="Link to Google Meet" width="40"/>
 </a>
 <!--
@@ -45,11 +43,13 @@ announcements related to the 2021/22 course.
 
 ## Labs Recordings
 
-| Date        | Title                                 | Link                                         |
-|:------------|:--------------------------------------|:---------------------------------------------|
-| 24 Sep      | LAB Introduction + Lab on Broadcast   | [Video recording](https://drive.google.com/file/d/19WWv7unQ6jymklnVb-a7sR51mNO3vjkz/view?usp=sharing)|                 
+| Date        | Link                                         |
+|:------------|:---------------------------------------------|
+| 24 Sep      | [LAB 01 Video recording](https://drive.google.com/file/d/19WWv7unQ6jymklnVb-a7sR51mNO3vjkz/view?usp=sharing)|
+| 01 Oct      | [LAB 02 Video recording](https://drive.google.com/file/d/1V1_y9X9K6JwWfaCQJq3EJpaM9mRpQS61/view?usp=sharing)|                 
 
-<!--
+
+
 <br>
 
 ***
@@ -59,8 +59,10 @@ announcements related to the 2021/22 course.
 - [Mesa Homepage](https://mesa.readthedocs.io/en/stable)
 - [Mesa on GitHub](https://github.com/projectmesa/mesa)
 - [Introductory Tutorial](https://mesa.readthedocs.io/en/stable/tutorials/intro_tutorial.html)
-- [Advanced Tutorial](https://mesa.readthedocs.io/en/stable/tutorials/adv_tutorial.html)
 
+<!--
+- [Advanced Tutorial](https://mesa.readthedocs.io/en/stable/tutorials/adv_tutorial.html)
+-->
 
 ## Bibliographic Resources
 
@@ -69,7 +71,6 @@ announcements related to the 2021/22 course.
 - D. Masad, J. Kazil. [*"MESA: an agent-based modeling framework."*](https://conference.scipy.org/proceedings/scipy2015/pdfs/jacqueline_kazil.pdf), in 14th PYTHON in Science Conf., 2015.
 
 ***
--->
 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
