@@ -50,7 +50,8 @@ announcements related to the 2021/22 course.
 | 24 Sep      | [LAB 01 Video recording](https://drive.google.com/file/d/19WWv7unQ6jymklnVb-a7sR51mNO3vjkz/view?usp=sharing)|
 | 1 Oct       | [LAB 02 Video recording](https://drive.google.com/file/d/1V1_y9X9K6JwWfaCQJq3EJpaM9mRpQS61/view?usp=sharing)|
 | 8 Oct       | [LAB 03 Video recording](https://drive.google.com/file/d/1I1Ydw_ECHKJq-PoL0SL2UcuuJxzGqJhO/view?usp=sharing)|
-| 15 Oct      | [LAB 04 Video recording](https://drive.google.com/file/d/1tXFYeD7I4SeMgps743uoLPn1izxxrBGy/view?usp=sharing)|               
+| 15 Oct      | [LAB 04 Video recording](https://drive.google.com/file/d/1tXFYeD7I4SeMgps743uoLPn1izxxrBGy/view?usp=sharing)|
+| 22 Oct      | [LAB 05 Video recording](https://drive.google.com/file/d/1qDS3oss0dL047afpnuPlDPCRTXnsjibp/view?usp=sharing)|             
 
 
 
