@@ -12,13 +12,13 @@ def compute_key(string, bitlength=BITLENGHT):
     return int.from_bytes(subdigest, 'little')
 
 
-def clock_dist(a, b, max=2**BITLENGHT - 1):
+def clock_dist(a, b, maxnum=2**BITLENGHT - 1):
     if a == b:
         return 0
     elif a < b:
         return b - a
     else:
-        return (2**BITLENGHT) + (b - a)
+        return maxnum + (b - a)
 
 
 class NodeDHT():
