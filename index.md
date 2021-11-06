@@ -39,7 +39,7 @@ announcements related to the 2021/22 course.
 | 8 Oct       | * MESA Space <br> * MESA Data Collection <br> * MESA Batch Run    | [LAB 03 outline & resources](https://docs.google.com/document/d/1PFSXFpKD6nUHxle0SkOAL1ucmtSxxNU1lkm_oD1HYKM/edit?usp=sharing) <br> [Custom Data Collection Example](./assets/resources/customDataCollection.zip)|
 | 15 Oct | * MESA Visualization <br> * SIR exercise | [LAB 04 outline & resources](https://docs.google.com/document/d/1j9HfSnwEcLQ8y_jL-hjkoHP4RAEJOjF8KhloPHCeHco/edit?usp=sharing) <br> [SIR exercise slides](./assets/slides/labSIRwithMESA.pdf) <br> [SIR code template](./assets/resources/SIRprovidedCode.zip)  <br> [SIR solutions](./assets/resources/SIRsolutions.zip)|
 | 22 Oct | Gossip-based Failure Detection  | [LAB 05 outline & resources](https://docs.google.com/document/d/1g4udgIgTUdcy3LLQirqvIeZ2tblZNzLxngqM9wcCWag/edit?usp=sharing) <br> [Gossip FD slides](./assets/slides/labGossipFailureDetection.pdf)|
-| 5 Nov  | * Assignment instructions <br> * Simple DHT in python  | [simple DHT slides](./assets/slides/labDHTsimple.pdf)  <!--<br> [python code](./assets/resources/simpleDHT.py)-->|
+| 5 Nov  | * Assignment instructions <br> * Simple DHT in python  | [simple DHT slides](./assets/slides/labDHTsimple.pdf)  <br> [simple DHT Py Code](./assets/resources/simpleDHT.py)|
 
 
 
@@ -65,8 +65,8 @@ announcements related to the 2021/22 course.
 | 1 Oct       | [LAB 02 Video recording](https://drive.google.com/file/d/1V1_y9X9K6JwWfaCQJq3EJpaM9mRpQS61/view?usp=sharing)|
 | 8 Oct       | [LAB 03 Video recording](https://drive.google.com/file/d/1I1Ydw_ECHKJq-PoL0SL2UcuuJxzGqJhO/view?usp=sharing)|
 | 15 Oct      | [LAB 04 Video recording](https://drive.google.com/file/d/1tXFYeD7I4SeMgps743uoLPn1izxxrBGy/view?usp=sharing)|
-| 22 Oct      | [LAB 05 Video recording](https://drive.google.com/file/d/1qDS3oss0dL047afpnuPlDPCRTXnsjibp/view?usp=sharing)|             
-
+| 22 Oct      | [LAB 05 Video recording](https://drive.google.com/file/d/1qDS3oss0dL047afpnuPlDPCRTXnsjibp/view?usp=sharing)|
+| 5 Nov       | [LAB 06 Video recording](https://drive.google.com/file/d/1HCx4FTnMoWhystRff7OPLK65EU7Oe4NO/view?usp=sharing)|             
 
 
 <br>

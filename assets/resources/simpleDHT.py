@@ -18,7 +18,7 @@ def clock_dist(a, b, maxnum=2**BITLENGHT - 1):
     elif a < b:
         return b - a
     else:
-        return maxnum + (b - a)
+        return maxnum - (a - b)
 
 
 class NodeDHT():
