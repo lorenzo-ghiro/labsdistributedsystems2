@@ -40,9 +40,14 @@ announcements related to the 2021/22 course.
 | 15 Oct | * MESA Visualization <br> * SIR exercise | [LAB 04 outline & resources](https://docs.google.com/document/d/1j9HfSnwEcLQ8y_jL-hjkoHP4RAEJOjF8KhloPHCeHco/edit?usp=sharing) <br> [SIR exercise slides](./assets/slides/labSIRwithMESA.pdf) <br> [SIR code template](./assets/resources/SIRprovidedCode.zip)  <br> [SIR solutions](./assets/resources/SIRsolutions.zip)|
 | 22 Oct | Gossip-based Failure Detection  | [LAB 05 outline & resources](https://docs.google.com/document/d/1g4udgIgTUdcy3LLQirqvIeZ2tblZNzLxngqM9wcCWag/edit?usp=sharing) <br> [Gossip FD slides](./assets/slides/labGossipFailureDetection.pdf)|
 | 5 Nov  | * Assignment instructions <br> * Simple DHT in python  | [simple DHT slides](./assets/slides/labDHTsimple.pdf)  <br> [simple DHT Py Code](./assets/resources/simpleDHT.py)|
-| 12 Nov | * Advancing DHT implementation  | [Advanced DHT slides](./assets/slides/labAdvancingDHT.pdf)  <br> [advancedDHT py code](./assets/resources/advancedDHT.zip) |
+| 12 Nov | * Advancing DHT implementation | [Advanced DHT slides](./assets/slides/labAdvancingDHT.pdf)  <br> [advancedDHT py code](./assets/resources/advancedDHT.zip) |
 
+***
 
+Congratulations to Gabriele and Giovanni that, by completing the exercise "Advancing our DHT in python",
+conquered 1 bonus point!!! Well done guys ;)
+
+***
 
 <br>
 
@@ -66,7 +71,8 @@ announcements related to the 2021/22 course.
 | 8 Oct       | [LAB 03 Video recording](https://drive.google.com/file/d/1I1Ydw_ECHKJq-PoL0SL2UcuuJxzGqJhO/view?usp=sharing)|
 | 15 Oct      | [LAB 04 Video recording](https://drive.google.com/file/d/1tXFYeD7I4SeMgps743uoLPn1izxxrBGy/view?usp=sharing)|
 | 22 Oct      | [LAB 05 Video recording](https://drive.google.com/file/d/1qDS3oss0dL047afpnuPlDPCRTXnsjibp/view?usp=sharing)|
-| 5 Nov       | [LAB 06 Video recording](https://drive.google.com/file/d/1HCx4FTnMoWhystRff7OPLK65EU7Oe4NO/view?usp=sharing)|             
+| 5 Nov       | [LAB 06 Video recording](https://drive.google.com/file/d/1HCx4FTnMoWhystRff7OPLK65EU7Oe4NO/view?usp=sharing)|
+| 12 Nov      | [LAB 07 Video recording](https://drive.google.com/file/d/1nUOOyuyyHeqWJO8exCvbHQkqzDxZ3dbo/view?usp=sharing)|             
 
 
 <br>
