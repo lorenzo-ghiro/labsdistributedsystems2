@@ -41,7 +41,8 @@ announcements related to the 2021/22 course.
 | 22 Oct | Gossip-based Failure Detection  | [LAB 05 outline & resources](https://docs.google.com/document/d/1g4udgIgTUdcy3LLQirqvIeZ2tblZNzLxngqM9wcCWag/edit?usp=sharing) <br> [Gossip FD slides](./assets/slides/labGossipFailureDetection.pdf)|
 | 5 Nov  | * Assignment instructions <br> * Simple DHT in python  | [simple DHT slides](./assets/slides/labDHTsimple.pdf)  <br> [simple DHT Py Code](./assets/resources/simpleDHT.py)|
 | 12 Nov | * Advancing DHT implementation | [Advanced DHT slides](./assets/slides/labAdvancingDHT.pdf)  <br> [advancedDHT py code](./assets/resources/advancedDHT.zip) |
-| 19 Nov | * real-world DHT with Flask | [LAB 08 outline](./assets/resources/lab08outline.pdf) <br> [Code developed in class](./assets/resources/lab08code.zip)|
+| 19 Nov | * DHT with Flask part**1** | [LAB 08 outline](./assets/resources/lab08outline.pdf) <br> [Code developed in class](./assets/resources/lab08code.zip)|
+| 26 Nov | * DHT with Flask part**2** | [LAB 09 outline](./assets/resources/lab09outline.pdf) <br> [Code developed in class](./assets/resources/lab09code.zip)|
 
 ***
 
@@ -75,6 +76,8 @@ conquered 1 bonus point!!! Well done guys ;)
 | 5 Nov       | [LAB 06 Video recording](https://drive.google.com/file/d/1HCx4FTnMoWhystRff7OPLK65EU7Oe4NO/view?usp=sharing)|
 | 12 Nov      | [LAB 07 Video recording](https://drive.google.com/file/d/1nUOOyuyyHeqWJO8exCvbHQkqzDxZ3dbo/view?usp=sharing)|             
 | 19 Nov      | [LAB 08 Video recording](https://drive.google.com/file/d/1pf_M1cNM-0p666uILMaaiiplVxgC0J8U/view?usp=sharing)|   
+| 26 Nov      | [LAB 09 Video recording](https://drive.google.com/file/d/1wVt3Qg17HotD3tBjqIwO6NyZeEnf3wBe/view?usp=sharing)| 
+
 
 <br>
 
