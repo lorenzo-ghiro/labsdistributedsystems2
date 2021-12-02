@@ -41,8 +41,9 @@ announcements related to the 2021/22 course.
 | 22 Oct | Gossip-based Failure Detection  | [LAB 05 outline & resources](https://docs.google.com/document/d/1g4udgIgTUdcy3LLQirqvIeZ2tblZNzLxngqM9wcCWag/edit?usp=sharing) <br> [Gossip FD slides](./assets/slides/labGossipFailureDetection.pdf)|
 | 5 Nov  | * Assignment instructions <br> * Simple DHT in python  | [simple DHT slides](./assets/slides/labDHTsimple.pdf)  <br> [simple DHT Py Code](./assets/resources/simpleDHT.py)|
 | 12 Nov | * Advancing DHT implementation | [Advanced DHT slides](./assets/slides/labAdvancingDHT.pdf)  <br> [advancedDHT py code](./assets/resources/advancedDHT.zip) |
-| 19 Nov | * DHT with Flask part**1** | [LAB 08 outline](./assets/resources/lab08outline.pdf) <br> [Code developed in class](./assets/resources/lab08code.zip)|
-| 26 Nov | * DHT with Flask part**2** | [LAB 09 outline](./assets/resources/lab09outline.pdf) <br> [Code developed in class](./assets/resources/lab09code.zip)|
+| 19 Nov | * DHT with Flask **part_1** | [LAB 08 outline](./assets/resources/lab08outline.pdf) <br> [Code developed in class](./assets/resources/lab08code.zip)|
+| 26 Nov | * DHT with Flask **part_2** | [LAB 09 outline](./assets/resources/lab09outline.pdf) <br> [Code developed in class](./assets/resources/lab09code.zip)|
+| 3 Dec | * DHT with Flask **part_3** | [LAB 10 outline](./assets/resources/lab10outline.pdf)|
 
 ***
 
