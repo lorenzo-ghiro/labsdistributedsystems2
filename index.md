@@ -43,7 +43,7 @@ announcements related to the 2021/22 course.
 | 12 Nov | * Advancing DHT implementation | [Advanced DHT slides](./assets/slides/labAdvancingDHT.pdf)  <br> [advancedDHT py code](./assets/resources/advancedDHT.zip) |
 | 19 Nov | * DHT with Flask **part_1** | [LAB 08 outline](./assets/resources/lab08outline.pdf) <br> [Code developed in class](./assets/resources/lab08code.zip)|
 | 26 Nov | * DHT with Flask **part_2** | [LAB 09 outline](./assets/resources/lab09outline.pdf) <br> [Code developed in class](./assets/resources/lab09code.zip)|
-| 3 Dec | * DHT with Flask **part_3** | [LAB 10 outline](./assets/resources/lab10outline.pdf)|
+| 3 Dec | * DHT with Flask **part_3**  | [LAB 10 outline](./assets/resources/lab10outline.pdf) <br> [DHT Final Code](./assets/resources/FinalDHT.zip)|
 
 ***
 
@@ -75,9 +75,10 @@ conquered 1 bonus point!!! Well done guys ;)
 | 15 Oct      | [LAB 04 Video recording](https://drive.google.com/file/d/1tXFYeD7I4SeMgps743uoLPn1izxxrBGy/view?usp=sharing)|
 | 22 Oct      | [LAB 05 Video recording](https://drive.google.com/file/d/1qDS3oss0dL047afpnuPlDPCRTXnsjibp/view?usp=sharing)|
 | 5 Nov       | [LAB 06 Video recording](https://drive.google.com/file/d/1HCx4FTnMoWhystRff7OPLK65EU7Oe4NO/view?usp=sharing)|
-| 12 Nov      | [LAB 07 Video recording](https://drive.google.com/file/d/1nUOOyuyyHeqWJO8exCvbHQkqzDxZ3dbo/view?usp=sharing)|             
+| 12 Nov      | [LAB 07 Video recording](https://drive.google.com/file/d/1nUOOyuyyHeqWJO8exCvbHQkqzDxZ3dbo/view?usp=sharing)|
 | 19 Nov      | [LAB 08 Video recording](https://drive.google.com/file/d/1pf_M1cNM-0p666uILMaaiiplVxgC0J8U/view?usp=sharing)|   
-| 26 Nov      | [LAB 09 Video recording](https://drive.google.com/file/d/1wVt3Qg17HotD3tBjqIwO6NyZeEnf3wBe/view?usp=sharing)| 
+| 26 Nov      | [LAB 09 Video recording](https://drive.google.com/file/d/1wVt3Qg17HotD3tBjqIwO6NyZeEnf3wBe/view?usp=sharing)|
+| 3 Dec       | [LAB 10 Video recording](https://drive.google.com/file/d/11EI9oTtE0Qz8jiYqeVt_AxseISHqor-1/view?usp=sharing)| 
 
 
 <br>
