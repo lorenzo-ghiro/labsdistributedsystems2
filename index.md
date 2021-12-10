@@ -44,6 +44,7 @@ announcements related to the 2021/22 course.
 | 19 Nov | * DHT with Flask **part_1** | [LAB 08 outline](./assets/resources/lab08outline.pdf) <br> [Code developed in class](./assets/resources/lab08code.zip)|
 | 26 Nov | * DHT with Flask **part_2** | [LAB 09 outline](./assets/resources/lab09outline.pdf) <br> [Code developed in class](./assets/resources/lab09code.zip)|
 | 3 Dec | * DHT with Flask **part_3**  | [LAB 10 outline](./assets/resources/lab10outline.pdf) <br> [DHT Final Code](./assets/resources/FinalDHT.zip)|
+| 10 Dec | * Learn Blockchains with Python  | [LAB 11 outline](./assets/resources/lab11outline.pdf) |
 
 ***
 
