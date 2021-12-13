@@ -44,7 +44,7 @@ announcements related to the 2021/22 course.
 | 19 Nov | * DHT with Flask **part_1** | [LAB 08 outline](./assets/resources/lab08outline.pdf) <br> [Code developed in class](./assets/resources/lab08code.zip)|
 | 26 Nov | * DHT with Flask **part_2** | [LAB 09 outline](./assets/resources/lab09outline.pdf) <br> [Code developed in class](./assets/resources/lab09code.zip)|
 | 3 Dec | * DHT with Flask **part_3**  | [LAB 10 outline](./assets/resources/lab10outline.pdf) <br> [DHT Final Code](./assets/resources/FinalDHT.zip)|
-| 10 Dec | * Learn Blockchains with Python  | [LAB 11 outline](./assets/resources/lab11outline.pdf) |
+| 10 Dec | * Learn Blockchains with Python  | [LAB 11 outline](./assets/resources/lab11outline.pdf) <br> [Code developed in class](./assets/resources/lab11code.zip) <br> [Blockchain Final Code](./assets/resources/blockchainWithMQTT.zip)|
 
 ***
 
@@ -79,8 +79,8 @@ conquered 1 bonus point!!! Well done guys ;)
 | 12 Nov      | [LAB 07 Video recording](https://drive.google.com/file/d/1nUOOyuyyHeqWJO8exCvbHQkqzDxZ3dbo/view?usp=sharing)|
 | 19 Nov      | [LAB 08 Video recording](https://drive.google.com/file/d/1pf_M1cNM-0p666uILMaaiiplVxgC0J8U/view?usp=sharing)|   
 | 26 Nov      | [LAB 09 Video recording](https://drive.google.com/file/d/1wVt3Qg17HotD3tBjqIwO6NyZeEnf3wBe/view?usp=sharing)|
-| 3 Dec       | [LAB 10 Video recording](https://drive.google.com/file/d/11EI9oTtE0Qz8jiYqeVt_AxseISHqor-1/view?usp=sharing)| 
-
+| 3 Dec       | [LAB 10 Video recording](https://drive.google.com/file/d/11EI9oTtE0Qz8jiYqeVt_AxseISHqor-1/view?usp=sharing)|
+| 10 Dec      | [LAB 11 Video recording](https://drive.google.com/file/d/1vWzf98qoeIBpBZcR848YtWH-k1nHai4j/view?usp=sharing)| 
 
 <br>
 
