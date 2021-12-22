@@ -2,6 +2,57 @@
 layout: default
 ---
 
+### Recommended deadlines for the assignment
+
+
+    Dear students,
+
+    I would like to share with you this administrative reminder hoping
+    you will find it useful for organizing well your studying activities
+    and your preparation for the incoming exams session.
+
+    The official dates for the 2 winter exam-sessions of our course are
+    the 27th of January and the 17th of February.
+    Please, recall that if you plan to have your mark registered for
+    those dates, then I need to have your assignments ready for
+    evaluation one week in advance. This means that:
+
+    1st Winter session:
+    Assignment deadline --> 20th of January
+
+    2nd Winter session:
+    Assignment deadline --> 10th of February
+
+
+    NB: Meeting the above reported deadlines is just a suggestion that
+    comes from me and prof. Montresor so to
+    1) ease the bureaucratic process behind the registration of
+    exams;
+    2) let you plan your activities according to more precise dates;
+
+    It is actually possible to deliver your assignment even after the 2nd
+    official exam session and schedule the oral examination even
+    later.
+    However, in the last few years we have noticed that, not meeting
+    similar recommended deadlines, few groups of students have not been
+    able to ever finalize their projects, losing the opportunity to
+    successfully complete the course.
+
+    Prof. Montresor asked me also to inform you that, for those that will
+    be able to deliver the assignment before the 10th of February, he is
+    available for the oral examination in any moment even after the 17th
+    of February (doing the oral examination either in his office or
+    online).
+    In this case he only asks you to send him your request of attending
+    the exam at least 10 days before your planned day for it.
+
+    I wish you all the best and good luck with the preparation of your
+    exams,
+
+
+    Lorenzo
+
+<!--
 ## Timetable 1st semester 2021/2022
 
 ***
@@ -12,12 +63,13 @@ Where: ***ROOM A221***   &nbsp; <a href="https://meet.google.com/zbs-udrn-rtt">
   also on Google Meet
 <img src="./assets/images/gmeet.png" alt="Link to Google Meet" width="40"/>
 </a>
-<!--
+
 also [online on Google Meet](https://meet.google.com/zbs-udrn-rtt)
-  [![image alt text](./assets/images/gmeet.png)](www.google.com)-->
+  [![image alt text](./assets/images/gmeet.png)](www.google.com)
 
 
 ***
+-->
 
 
 ### Course teachers:
