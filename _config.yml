@@ -1,6 +1,7 @@
 title: Lab Distributed Systems 2
 description: Website for the Labs on Distributed Systems 2021/22 UNITN
 remote_theme: pages-themes/slate@v0.2.0
+repository: LoreBz/labsdistributedsystems2
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 theme: jekyll-theme-slate
